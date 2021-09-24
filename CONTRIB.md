@@ -36,7 +36,7 @@ _Please submit a pull request here if you would like to request more data. Our t
    
 ### Healthcare
 
-+
++home quarantine
 
 ### Deaths
 
